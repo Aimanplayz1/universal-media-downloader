@@ -7,7 +7,7 @@ A clean, simple media downloader for Windows. Download videos and audio from You
 
 ## Download
 
-👉 **[Download Latest Version](https://github.com/Aimanplayz1/universal-media-downloader/releases/download/v2.1/UMD.zip)**
+👉 **[Download Zip For First Installation](https://github.com/Aimanplayz1/universal-media-downloader/releases/download/v2.1/UMD.zip)**
 
 Just download, extract the folder, and run `Universal Media Downloader.exe`. No installation required.
 
